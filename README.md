@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+- 🌱 I’m currently learning [**Flutter**](https://flutter.dev) for cross-platform development
 
 ## 🌐 Socials:
 
