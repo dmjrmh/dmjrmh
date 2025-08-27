@@ -45,14 +45,14 @@
 ## 📚 Currently Exploring
 
 - 🚀 Advancing [**Laravel**](https://laravel.com) for modern web application development
-- 🌱 Learning [**Flutter**](https://flutter.dev/) for cross‑platform mobile development
-- 📈 Leveling up [**Next.js**](https://nextjs.org/) for interactive & dynamic front‑end experiences
+- 🌱 Deep diving into [**React.js**](https://react.dev/) & modern JavaScript for daily drills
+- 📈 Practicing [**React.js**](https://react.dev/) through daily drills and mini projects 
 
 ---
 
 ## 📊 GitHub Stats
 
-![Dame's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmjrmh&show_icons=true&theme=ocean_dark&hide=stars)
+![Dame's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/dmjrmh?cardType=level-alternate&theme=tokyonight&preferLogin=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dmjrmh&theme=dark&hide_border=false)
 
