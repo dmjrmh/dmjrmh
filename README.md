@@ -61,11 +61,13 @@
 
 ### 🟢 Tenda Membran Surabaya (React.js)
 A modern and fast website for a membrane canopy business.
-🔗 **Live:** https://tendamembransurabaya.com
+[![Visit Site](https://img.shields.io/badge/Visit_Site-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tendamembransurabaya.com)
+
 
 ### 🟢 Puthu Dhoho (Next.js)
 A clean and modern website showcasing traditional Indonesian “Puthu” snacks with a simple product highlight flow.  
-🔗 **Live:** https://puthudhoho.biz.id
+[![Visit Site](https://img.shields.io/badge/Check_It_Out-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://puthudhoho.biz.id)
+
 
 ---
 
