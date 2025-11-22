@@ -60,7 +60,7 @@
 ## 🚀 Featured Projects
 
 ### 🟢 Tenda Membran Surabaya (React.js)
-A modern and fast website for a membrane canopy business
+A modern and fast website for a membrane canopy business.
 🔗 **Live:** https://tendamembransurabaya.com
 
 ### 🟢 Puthu Dhoho (Next.js)
