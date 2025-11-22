@@ -47,7 +47,7 @@
 
 - 2+ years building responsive systems (Laravel, Ruby on Rails, Next.js)
 - Experience creating SEO-optimized websites & fast landing pages  
-- Built & maintained business systems (POS, ERP, tourism systems, plywood trading)
+- Built & maintained business systems (ERP, tourism systems, plywood trading)
 - Familiar with GitHub/Bitbucket workflows, REST APIs, and SQL (MySQL/PostgreSQL)
 
 ---
