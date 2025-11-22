@@ -45,17 +45,22 @@
 
 ## ✨ Highlights
 
-- 2+ years building responsive systems (Laravel, Ruby on Rails, Next.js)
-- Experience creating SEO-optimized websites & fast landing pages  
-- Built & maintained business systems (ERP, tourism systems, plywood trading)
-- Familiar with GitHub/Bitbucket workflows, REST APIs, and SQL (MySQL/PostgreSQL)
+- 2 years of experience as a web developer, with hands-on experience in Laravel, Ruby on Rails, React.js, Next.js, and CodeIgniter
+- Experience creating SEO-optimized websites and fast landing pages  
+- Built and maintained business systems (ERP, tourism systems, plywood trading)
+- Have hands-on experience with REST APIs and SQL (MySQL/PostgreSQL)
+- Understanding of MVC architecture
+- Experience integrating backend systems with modern frontend frameworks
+- Experience deploying apps to Vercel or shared hosting environments
+- Experience integrating third-party APIs
+
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🟢 Tenda Membran Surabaya (React.js)
-A modern, fast, website for a membrane canopy business.  
+A modern and fast website for a membrane canopy business
 🔗 **Live:** https://tendamembransurabaya.com
 
 ### 🟢 Puthu Dhoho (Next.js)
