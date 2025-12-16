@@ -117,6 +117,16 @@ A clean and modern website showcasing traditional Indonesian “Puthu” snacks 
 
 ---
 
+## 🎧 Recently Played on Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/user/cnjteb87t1mjvhu0eicogxuv4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cnjteb87t1mjvhu0eicogxuv4&count=5&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
+
+---
+
 ## 👀 Profile Views
 
 [![Visit Count](https://visitcountpro.netlify.app/api?id=dmjrmh&pretty=true)](https://visitcount.itsvg.in)
