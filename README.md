@@ -9,11 +9,6 @@
   💼 <b>Currently Working for Private Company</b>
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/dmjrmh"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/damejeremiah"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dame.jeremia27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-</p>
 
 ---
 
